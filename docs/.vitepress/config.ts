@@ -54,7 +54,7 @@ export default defineConfig({
 
     footer: {
       message: '基于 Gemini 3 Pro 深度分析',
-      copyright: '© 2025 Jinspire'
+      copyright: '© 2025 <a href="https://jinspire.dev" target="_blank">Jinspire</a>'
     }
   }
 })
