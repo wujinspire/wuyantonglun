@@ -53,8 +53,8 @@ export default defineConfig({
     },
 
     footer: {
-      message: '基于 Gemini 3 Pro 深度分析',
-      copyright: '© 2025 <a href="https://jinspire.dev" target="_blank">Jinspire</a>'
+      message: '基于 Gemini 3 Pro 深度分析 · V0 · Dec 27, 2025',
+      copyright: '© <a href="https://jinspire.dev" target="_blank">Jinspire</a>'
     }
   }
 })
